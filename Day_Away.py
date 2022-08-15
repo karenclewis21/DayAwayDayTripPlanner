@@ -17,7 +17,7 @@ transportation = ['Train', 'Car', 'Plane', 'RV']
 
 
 
-while True:
+# while True:
     valid_response = False
     while valid_response == False:    
     
